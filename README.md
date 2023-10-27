@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Fernández Martín</h1>
+<h1 align="center">I'm Antonio Fernández Martín</h1>
 <h3 align="center">Computer Engineering (Universidad complutense de Madrid) <br> Master in Big Data and Business Analytics from NTIC (Universidad complutense de Madrid)</h3>
 
 <h3 align="left">Connect with me:</h3>
